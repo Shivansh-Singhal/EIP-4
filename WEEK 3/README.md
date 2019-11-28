@@ -148,5 +148,4 @@ Epoch 49/50
 Epoch 50/50
 390/390 [==============================] - 27s 69ms/step - loss: 0.4187 - acc: 0.8529 - val_loss: 0.4905 - val_acc: 0.8330
 Model took 1343.49 seconds to train
-
 Accuracy on test data is: 83.30
