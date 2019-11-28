@@ -1,6 +1,6 @@
 ### Final Validation accuracy for Base Network ###
 
-Accuracy on test data is: ##83.30##
+Accuracy on test data is: ## 83.30 ##
 
 ### Model definition (model.add... ) with output channel size and receptive field ###
 
