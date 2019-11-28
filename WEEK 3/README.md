@@ -149,5 +149,3 @@ Epoch 50/50
 Model took 1343.49 seconds to train
 
 Accuracy on test data is: 83.30
-
-
